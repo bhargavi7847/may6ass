@@ -1,0 +1,5 @@
+ASSIGNMENT : 2
+employee={'ename':'bhargavi','eno.':152,'edesig':'system engineer','doj':12/4/2015,'esalary':50000}
+print(employee['eno.'])
+OUTPUT:
+152
