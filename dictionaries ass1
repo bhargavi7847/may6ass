@@ -1,0 +1,5 @@
+ASSIGNMENT 1
+student={'sname':'bhargavi','sno':49,'sgroup':'BCA','gender':'female','result':'100'}
+print(student['sno'])
+OUTPUT:
+49
